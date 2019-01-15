@@ -5,5 +5,7 @@ authors = [
         "Stefan Lankes <slankes@eonerc.rwth-aachen.de>",
 ]
 
+description = "A tool to rename sections for libhermit-rs"
+
 [dependencies]
 regex = "1.0.1"
